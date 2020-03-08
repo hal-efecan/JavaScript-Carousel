@@ -8,6 +8,6 @@ Built using:
 3.**SCSS**
 
 Assets credits:  
-[Pic1](www.unsplash.com/photos/iGLLtLINSkw "Aryan Dhiman")  
-[Pic2](www.unsplash.com/photos/dMUt0X3f59Q "Fabian Grohs")  
-[Pic3](www.unsplash.com/photos/PZjzAdaXgYo "Ramon Kagie")  
+[Pic1](https://www.unsplash.com/photos/iGLLtLINSkw "Aryan Dhiman")  
+[Pic2](https://www.unsplash.com/photos/dMUt0X3f59Q "Fabian Grohs")  
+[Pic3](https://www.unsplash.com/photos/PZjzAdaXgYo "Ramon Kagie")  
